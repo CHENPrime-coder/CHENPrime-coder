@@ -1,3 +1,3 @@
-[![Metrics](/github-metrics.svg)]()
+<img src="/github-metrics.svg" alt="Metrics"/>
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=CHENPrime-coder)]()
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CHENPrime-coder" alt="GitHub Status"/>
