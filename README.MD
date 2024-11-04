@@ -1,7 +1,7 @@
 
 <table border="0">
   <tr>
-    <td rowspan="5">
+    <td rowspan="9">
       <img src="/github-metrics.svg" alt="Metrics"/>
     </td>
     <td>
