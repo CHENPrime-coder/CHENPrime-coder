@@ -1,7 +1,4 @@
 <p align="center">
-  <img style="margin:auto;" src="/github-metrics.svg" alt="Metrics"/>
-</p>
-<p align="center">
   <img style="margin:auto;" src="https://github-readme-stats.vercel.app/api?username=CHENPrime-coder" alt="GitHub Status"/>
 </p>
 <p align="center">
