@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Kotlin, JavaScript, .NET, or anything tech!**
 
-- 📫 How to reach me: `chenbprime@qq.com` *(or replace with social links)*
+- 📫 How to reach me: `chenbprime@qq.com`
 
 ---
 
