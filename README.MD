@@ -19,8 +19,6 @@
 
 - 🌱 I’m currently learning **full-stack development and algorithms**
 
-- 🏆 Preparing for the **WorldSkills Business Software Solutions** competition
-
 - 💬 Ask me about **Kotlin, JavaScript, .NET, or anything tech!**
 
 - 📫 How to reach me: `chenbprime@qq.com`
