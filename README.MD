@@ -29,7 +29,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHENPrime-coder&show_icons=true&theme=radical" alt="CHENPrime's GitHub stats" />
+  <img src="./profile/stats.svg" alt="CHENPrime's GitHub stats" />
+  <img src="./profile/top-lang.svg" alt="CHENPrime's GitHub stats" />
 </p>
 
 ---
