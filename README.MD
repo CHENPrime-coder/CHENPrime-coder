@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="./profile/stats.svg" alt="CHENPrime's GitHub stats" />
-  <img src="./profile/top-lang.svg" alt="CHENPrime's GitHub stats" />
+  <img src="./profile/top-langs.svg" alt="CHENPrime's GitHub stats" />
 </p>
 
 ---
